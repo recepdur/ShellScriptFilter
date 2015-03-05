@@ -13,3 +13,7 @@ filter 2 argüman alıyor birinci argüman yasaklı kelimeler, diğer argüman s
 filter.c
 
 Basit şekilde Script ve C kullanarak bir dizin üzerinde yapılabilecek filtreleme işlemlerini anlatmaya çalıştım. Görüldüğü gibi Script pratikliğiyle çoğu zaman işimizi kolaylaştırmaktadır.
+
+
+Kaynak:
+<a href="http://recepdur.com/shell-script-ile-filtreleme/">http://recepdur.com/shell-script-ile-filtreleme/</a>
