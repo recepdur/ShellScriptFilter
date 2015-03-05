@@ -16,4 +16,4 @@ Basit şekilde Script ve C kullanarak bir dizin üzerinde yapılabilecek filtrel
 
 
 Kaynak:
-<a href="http://recepdur.com/shell-script-ile-filtreleme/">http://recepdur.com/shell-script-ile-filtreleme/</a>
+<a href="http://recepdur.com/shell-script-ile-filtreleme/">recepdur.com/shell-script-ile-filtreleme</a>
